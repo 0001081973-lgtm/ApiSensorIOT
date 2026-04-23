@@ -18,7 +18,7 @@ Siga os passos abaixo para configurar e rodar a API em seu ambiente local:
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/ApiSensoresIOT.git](https://github.com/seu-usuario/ApiSensoresIOT.git)
+    git clone [https://github.com/0001081973-lgtm/ApiSensoresIOT.git](https://github.com/0001081973-lgtm/ApiSensoresIOT.git)
     cd ApiSensoresIOT
     ```
 
