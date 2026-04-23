@@ -104,4 +104,4 @@ Exclui permanentemente um sensor do banco de dados.
 ---
 
 ## ✒️ Autor
-* **Seu Nome** - *Desenvolvedor* - [Seu GitHub](https://github.com/seu-usuario)
+* **Bruno Maia** - *Desenvolvedor* - [Seu GitHub](https://github.com/0001081973-lgtm/ApiSensorIOT)
