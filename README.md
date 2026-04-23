@@ -10,7 +10,7 @@ Siga os passos abaixo para configurar e rodar a API em seu ambiente local:
 
 ### 📋 Pré-requisitos
 
-* [.NET SDK](https://dotnet.microsoft.com/download) (Versão 6.0 ou superior recomendada).
+* [.NET SDK](https://dotnet.microsoft.com/download) (Versão 8.0 ou superior recomendada).
 * IDE: [Visual Studio 2022](https://visualstudio.microsoft.com/), [VS Code](https://code.visualstudio.com/) ou [JetBrains Rider](https://www.jetbrains.com/rider/).
 * Ferramenta para testes de API (opcional): [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/).
 
